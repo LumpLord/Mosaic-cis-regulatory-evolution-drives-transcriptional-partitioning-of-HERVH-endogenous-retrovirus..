@@ -1,0 +1,2 @@
+#we did 2 OneCode runs: 1) with RepeatMasker version 4.0.5 repeat Library 20140131 and 2) with remasked genome using custom HERVH library
+#to get insertion counts, we extract 5' LTR from full lengths and solo LTR. We did NOT use "truncated" insertions in any analysis

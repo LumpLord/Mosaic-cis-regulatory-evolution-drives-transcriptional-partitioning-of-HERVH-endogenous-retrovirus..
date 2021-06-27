@@ -1,0 +1,16 @@
+Alignment of all previously annotated HERVH LTR used in figure 1a:	HERVH_LTR_alignment.fa
+Alignment of all previously annotated LTR7 used in figure 1b:	LTR7_alignment.fa 
+Alignment of reverse transcriptase domain for LTR7: 	LTR7_RT_alignment.fa
+Alignment of Dfam LTR7B/C/Y consensus sequences with LTR7 consensus sequences defined in figure 1b: 	HERVH_LTR_consensus_alignment.fa
+Group definitions for all LTR7 defined in figure 1b: 	LTR7_groups.bed
+Counts of HERVH LTR that liftover to NHP genomes:	liftover.csv
+Heatmaps for H3K9me3, WGBS, and GRO-seq on LTR7 loci: 	GROseq_repression.pdf
+Chart of binary regulatory information for each LTR7 insertion:	LTR7_pluripotent_regulation.xlsx
+Statistical analysis for LTR7 phyloregulatory subfamily enrichment:		phyloregulatory_statistics.xlsx
+Statistical analysis for phyloregulatory LTR7up transcribed vs non-transcribed  enrichment: txn7upVnotxn7up.xlsx
+Custom library for LTR7-HERVH remasking:	HERVH_remasking_library.fa
+Repeat masker output from custom library run:	hg38_LTR7_custom_library.fa.out
+Custom library run OneCodeToFindThemAll designations with summary counts: HERVH_LTRremasking.xlsx
+Motif enrichment homer pdf:	HERVH_homer_motif_emrichment.pdf
+Motif enrichment stats:	HERVH_motif_homer_stats.txt
+

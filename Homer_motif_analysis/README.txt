@@ -1,0 +1,3 @@
+#LTR7_blockFilt.v2.r: generation of consensus alignment (provided in ./hg38_HERVH_LTR_files - cons denation) visualization for fig4b
+#LTR7_blockFiltPlotsStrand.r: generation of stranded homer motif enrichment plots (fig5b and supplement) - uses .fas without "cons" designation in ./hg38_HERVH_LTR_files
+#LTR7_muscleConsStrand.sh: muscle alignment of LTR7 consensus sequences and inter-subfamily pairwise motif enrichment

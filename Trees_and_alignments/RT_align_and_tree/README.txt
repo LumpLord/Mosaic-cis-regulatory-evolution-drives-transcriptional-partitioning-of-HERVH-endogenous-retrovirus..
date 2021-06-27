@@ -1,0 +1,1 @@
+# scripts (.sh), input (.fa), and output (.contree) for RVT domain search, alignment, and tree generation (supp 1)

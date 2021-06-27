@@ -1,0 +1,13 @@
+Data type	accession
+GRO-seq	GSE64758
+38 distinct TFs and histone modifications H1 cells	GSE61475 
+H3K27Ac, POU5F1, MED1 and CTCF	GSE69647 
+H3K27Ac, H3K9Me3, KLF4, and KLF17	GSE117395 
+An array of KRAB-ZNFs, H3K9me3, and TRIM28	GSE78099 
+“chimeric” HERVH transcripts in H1 cells 	
+Highly transcribed HERVH	GSE54726  
+ZNF534 HEK293 ChIP	GSM2466584
+ZNF90 HEK293 Chip	GSM2466684
+KAP1 H1 Chip	GSM2067350
+single cell RNA-seq datasets from early human embryos and embryonic stem cells	GSE36552
+single cell RNA-seq for the EPI, PE, TE cells GSE66507

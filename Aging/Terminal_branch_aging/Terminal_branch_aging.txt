@@ -1,0 +1,20 @@
+#Removed all insertions from LTR7 subfamilies defined in fig 1b via figtree
+
+
+
+#used REGEX in sublime text to extract terminal branch lengths from newick tree:
+
+#replace top regex with bottom:
+(1-4..:0.[0-9]*)
+\n${1}\n
+
+
+#remove all of the following regex and replace with nothing
+^\).*
+^,.*
+^\n
+1-4..:
+
+#et voila, TBL from newick. 
+
+#these were put in a matrix for R plot (fig 2a)
