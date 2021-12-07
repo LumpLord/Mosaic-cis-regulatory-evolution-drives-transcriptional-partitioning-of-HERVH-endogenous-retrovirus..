@@ -5,3 +5,4 @@
 	#heat_repression.csv = accompanying csv
 #activation.R = R for fig 3b
 	#heat_big_activation_limited.csv = accompanying csv
+#supp_heatmaps = bash for supplemental heatmaps

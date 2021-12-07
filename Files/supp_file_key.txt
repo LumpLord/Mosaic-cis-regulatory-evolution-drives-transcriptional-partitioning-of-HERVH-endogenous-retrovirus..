@@ -1,0 +1,10 @@
+Alignment of all previously annotated HERVH LTR used in figure 1a:	HERVH_LTR_alignment.fa
+Alignment of all previously annotated LTR7 used in figure 1b:	LTR7_alignment.fa 
+Alignment of Dfam LTR7B/C/Y consensus sequences with LTR7 consensus sequences defined in figure 1b: 	HERVH_LTR_consensus_alignment.fa
+Counts of HERVH LTR that liftover to NHP genomes:	liftover.csv
+Statistical analysis for LTR7 phyloregulatory subfamily enrichment:		phyloregulatory_statistics.xlsx
+Statistical analysis for phyloregulatory LTR7up transcribed vs non-transcribed  enrichment: txn7upVnotxn7up.xlsx
+Custom library run OneCodeToFindThemAll designations with summary counts: HERVH_LTRremasking.xlsx
+Motif enrichment homer pdf:	HERVH_homer_motif_emrichment.pdf
+Motif enrichment stats:	HERVH_motif_homer_stats.txt
+
