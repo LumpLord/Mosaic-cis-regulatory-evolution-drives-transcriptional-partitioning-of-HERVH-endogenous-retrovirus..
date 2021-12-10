@@ -7,4 +7,5 @@ Statistical analysis for phyloregulatory LTR7up transcribed vs non-transcribed  
 Custom library run OneCodeToFindThemAll designations with summary counts: HERVH_LTRremasking.xlsx
 Motif enrichment homer pdf:	HERVH_homer_motif_emrichment.pdf
 Motif enrichment stats:	HERVH_motif_homer_stats.txt
+7up_luciferase_data.csv: table with realtive expression for luciferase constructs (fig6)
 
